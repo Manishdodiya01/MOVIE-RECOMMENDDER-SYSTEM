@@ -1,2 +1,3 @@
-# Similarity.pkl file is note uploaded because file is large
-# DownLoad similarity.pkl through notebook86c26b4f17.ipynb
+**Note:**
+The `Similarity.pkl` file is not uploaded here due to its large size.
+To download the `similarity.pkl` file, please refer to the notebook `notebook86c26b4f17.ipynb`.
